@@ -1,0 +1,7 @@
+Request URL: https://discordapp.com/api/webhooks/347561296419356672/UDJD1IBb2MHDMJoV7HggL21-5XJOP9kL1SNMRxmKEDkwf4GZIzZWk6tYITamQpY7Tiss/github
+Request method: POST
+content-type: application/json
+Expect: 
+User-Agent: GitHub-Hookshot/8c529e0
+X-GitHub-Delivery: 0fa2d450-82f4-11e7-984f-e7851c0ebcc5
+X-GitHub-Event: ping
